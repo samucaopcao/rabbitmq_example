@@ -21,8 +21,7 @@ As opções de conexão são definidas em application.properties e são tratadas
   <strong>4 - </strong>Inicie a aplicação rabbitmq_exemple_consumer;<br><br>
   <strong>5 - </strong>Inicie a aplicação rabbitmq_exemple e poste uma mensagem na fila criada anteriormente conforme a requisição abaixo:<br><br>
 
-<img  src="https:![Screenshot_1](https://github.com/samucaopcao/rabbitmq_example/assets/59769434/61bf605d-2a67-42f3-9038-6b35141dab5d)"><br>
-
+![Screenshot_1](https://github.com/samucaopcao/rabbitmq_example/assets/59769434/61bf605d-2a67-42f3-9038-6b35141dab5d)
 
 Pronto! Você verá no console da aplicação  rabbitmq_exemple_consumer a menssagem que foi enviada para a fila pois nesta aplicação consumimos a fila citada.
 
