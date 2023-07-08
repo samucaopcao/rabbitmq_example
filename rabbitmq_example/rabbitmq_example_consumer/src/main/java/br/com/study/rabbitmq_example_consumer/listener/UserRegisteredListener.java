@@ -1,5 +1,6 @@
 package br.com.study.rabbitmq_example_consumer.listener;
 
+import br.com.study.rabbitmq_example_consumer.dto.UserRegisteredPayload;
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.core.type.TypeReference;
 import com.fasterxml.jackson.databind.ObjectMapper;
